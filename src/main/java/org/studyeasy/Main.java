@@ -7,7 +7,9 @@ public class Main {
         dl.insertNode(102,"Aishwary",1);
         dl.insertNode(103,"Aditya",2);
         dl.insertNode(104,"Ayush",3);
-
+        dl.insertNode(105,"Keshav",4);
+        dl.insertNode(104,"Prem",5);
+        dl.insertNode(105,"varun",6);
         dl.reverse();
     }
 }
