@@ -5,6 +5,7 @@ public class Main {
         DoublyLL dl=new DoublyLL();
         dl.createNode(101,"Aryan");
         dl.insertNode(102,"Aishwary",1);
+        dl.insertNode(103,"Aditya",1);
         dl.reverse();
     }
 }
