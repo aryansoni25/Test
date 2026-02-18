@@ -50,8 +50,6 @@ public class DoublyLL {
         size++;
         return node;
     }
-
-
     public void reverse() {
         if (head != null) {
             Node temp = tail;
