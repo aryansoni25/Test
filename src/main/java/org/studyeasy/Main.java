@@ -8,6 +8,7 @@ public class Main {
         dl.reverse();
         dl.insertNode(104,"Ayush",3);
         dl.insertNode(105,"Keshav",4);
+        dl.insertNode(106,"Madhav",5);
         dl.reverse();
     }
 }
